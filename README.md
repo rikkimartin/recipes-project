@@ -10,3 +10,7 @@ Each recipe pages shows
 > Built using pure HTML for practice purposes
 
 [Live Preview](https://rikkimartin.github.io/recipes-project "Odin Recipes")
+
+> Live Demo Page Example:
+
+![Pork Adobo Page](./images/demo.png)
