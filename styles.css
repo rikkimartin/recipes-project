@@ -1,0 +1,28 @@
+* {
+    text-align: center;
+}
+
+body {
+    background: linear-gradient(to bottom, #FFA07A, #D2B48C);
+}
+
+hr {
+    color: #555;
+    background-color: #555;
+    height: 2px;
+}
+img {
+    border: 5px solid black;
+}
+
+.header{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.content{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+ul.list li{
+    text-align: left;
+}
